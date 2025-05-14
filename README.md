@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vickyjay66
-- 👀 I’m interested in aws devops , cybersecurity
+- 👀 I’m interested in  devops , cybersecurity
 - 🌱 I’m currently learning devops , cybersecurity 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
